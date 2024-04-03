@@ -1,0 +1,20 @@
+body{
+background-color: aqua;
+color: black; 
+text-align: center;   
+
+}
+img{
+width: 150px; 
+height: 100px;
+border-radius: 100px;   
+}
+.login_div{
+background-image:linear-gradient(to right top,cyan,rgb(29, 142, 150),rgb(22, 53, 53),black);
+margin-top: 200px;
+float: none;
+}
+.user_tick{
+width: 20px; 
+height: 30px;   
+}

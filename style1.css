@@ -1,0 +1,29 @@
+body{
+background-image:linear-gradient(to right bottom, cyan,rgb(68, 146, 165),rgb(26, 58, 58),rgb(5, 15, 15),black);
+}
+h1{
+background-color: aqua;    
+}
+img{
+width: 150px;
+height: 100px;  
+border-radius:100px;
+margin-left:50px ;
+margin-top: 50px;  
+}    
+.color_white{
+color: aqua;    
+}
+button{
+width:200px ; 
+height: 100px;
+}
+#c{
+font-size: 40px;
+color: azure;   
+}
+
+#logout{
+width:90px ;  
+height: 70px;  
+}
